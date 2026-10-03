@@ -90,7 +90,7 @@ Select mode (1 or 2):
 
 A complete line-by-line breakdown explaining the data structures, algorithms, and logical flow of the codebase is available here:
 
-👉 **[Link to YouTube / Demo Video]**
+👉 **https://www.linkedin.com/feed/update/urn:li:ugcPost:7512182349376147456/**
 
 ---
 
